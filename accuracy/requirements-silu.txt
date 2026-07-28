@@ -1,0 +1,8 @@
+# SiLU accuracy pipeline (cats, catsgp) — installed into per-method venvs by setup_silu.sh
+transformers==4.54.0
+lm_eval==0.4.9
+accelerate
+datasets
+sentencepiece
+protobuf
+huggingface_hub

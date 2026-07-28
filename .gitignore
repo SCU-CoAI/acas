@@ -1,0 +1,33 @@
+# build artifacts (any build* directory: build/, build_contrib/, build-x64-..., build.zig/)
+build*/
+*.o
+*.a
+*.so
+*.dll
+
+# models / large weights — fetch separately (see method notes)
+*.gguf
+*.bin
+*.safetensors
+
+# working backups / scratch
+*.bak
+*.bak_*
+
+# logs / run scratch
+*.log
+
+# profiling artifacts (regenerable)
+*.nsys-rep
+*.ncu-rep
+*.qdrep
+*.sqlite
+
+# python bytecode + per-box accuracy state (created by setup on each machine)
+__pycache__/
+*.pyc
+accuracy/.method_*.env
+accuracy/.slot_*.env
+accuracy/runs/
+sparsity_logs/
+efficiency/results/

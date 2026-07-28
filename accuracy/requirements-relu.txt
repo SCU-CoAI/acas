@@ -1,0 +1,8 @@
+# ReLU accuracy pipeline (si, grasp) — installed into per-method venvs by setup_relu.sh
+transformers==4.44.2
+lm_eval==0.4.9        # superseded by the bundled patched copy in accuracy/lm-evaluation-harness/
+accelerate
+datasets
+sentencepiece
+protobuf
+huggingface_hub
