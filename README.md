@@ -2,12 +2,15 @@
 
 # ACAS
 
-[![Paper](http://img.shields.io/badge/paper-CODES-B31B1B.svg)](docs/CODES_ACAS_Camera_Ready.pdf)
+[![Paper](http://img.shields.io/badge/paper-CODES2026-B31B1B.svg)](docs/CODES_ACAS_Camera_Ready.pdf)
+[![DOI](https://zenodo.org/badge/1314534593.svg)](https://doi.org/10.5281/zenodo.21687009)
+
 [![Model](https://img.shields.io/badge/model-ProSparse--LLaMA--2--7B-yellow)](https://huggingface.co/SparseLLM/prosparse-llama-2-7b)
 [![Model](https://img.shields.io/badge/model-Llama--3.1--8B--Instruct-yellow)](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)
-[![llama.cpp](https://img.shields.io/badge/contains-llama.cpp%20forks-blue)](https://github.com/ggml-org/llama.cpp)
-[![SparseInfer](https://img.shields.io/badge/contains-SparseInfer%20fork-blue)](https://github.com/Sogang-aisys/Sparseinfer)
-[![Grasp](https://img.shields.io/badge/contains-Grasp%20fork-blue)](https://github.com/Sogang-aisys/Grasp)
+
+[![llama.cpp](https://img.shields.io/badge/contains-llama.cpp-blue)](https://github.com/ggml-org/llama.cpp)
+[![SparseInfer](https://img.shields.io/badge/contains-SparseInfer-blue)](https://github.com/Sogang-aisys/Sparseinfer)
+[![Grasp](https://img.shields.io/badge/contains-Grasp-blue)](https://github.com/Sogang-aisys/Grasp)
 
 </div>
 
