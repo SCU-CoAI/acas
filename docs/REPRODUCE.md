@@ -174,7 +174,7 @@ Labels map 1:1 to table rows:
 | Label pattern | Row |
 |---|---|
 | `<M> contrib PID` / `PID*` / `RL` / `RL*` | that method's four Contrib. rows |
-| `<M> ANCHOR precPID` / `<M> ANCHOR L2PID` | the Prec. (ReLU) / L2 (SiLU) PID row |
+| `<M> precPID` / `<M> L2PID` | the Prec. (ReLU) / L2 (SiLU) PID row |
 | `<M> prec PID*` / `<M> L2 PID*` | the starred Prec. / L2 row |
 | `DENSE …` (from `baselines.sh`) | No Sparsity |
 | `BASE …` (from `baselines.sh`) | the static baseline rows |
