@@ -24,6 +24,12 @@ Artifact documentation: [INSTALL.md](docs/INSTALL.md) · [REQUIREMENTS.md](docs/
 [STATUS.md](docs/STATUS.md) · [REPRODUCE.md](docs/REPRODUCE.md) ·
 [INTERFACE.md](docs/INTERFACE.md).
 
+## Demo
+
+[![ACAS artifact walkthrough](docs/demo-thumb.png)](https://www.youtube.com/watch?v=9dapMEngmtw)
+
+End-to-end walkthrough of both the accuracy and efficiency benchmarks.
+
 ## Installation
 
 ### Efficiency pipeline (Jetson AGX Orin)
